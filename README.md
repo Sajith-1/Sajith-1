@@ -1,5 +1,5 @@
 
-<img style =text-align:center" src="https://github.com/Sajith-1/Sajith-1/assets/112057794/7e43e912-d4ef-458b-a74d-b9aae65a2ada" />
+<img style ="text-align:center" src="https://github.com/Sajith-1/Sajith-1/assets/112057794/7e43e912-d4ef-458b-a74d-b9aae65a2ada" />
 
 
 <h1 align="center">Hi 👋, I'm Sajith</h1>
